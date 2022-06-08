@@ -11,7 +11,16 @@ Início
 		Exibir
 		Dado 1
           Dado 2
-     Ler resposta    
+     Ler resposta
+     Fim enquanto
+     Fim enquanto
+     Enquanto i igual 0 e menor que 16 soma 1
+     Enquanto j igual 0 e menor que 16 soma 1
+     Exibir 
+     Dado 1
+     Dado 2
+     Fim enquanto
+     Fim enquanto
 
 Fim
 
