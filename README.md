@@ -5,22 +5,13 @@ O repositório é um exemplo de como deve ser entregue os exercícios de Algorit
 
 Início
 
-enquanto i igual a 0 ate 16 soma 1
-escreva Informe elementos da linha 
-enquanto i igual 0 e menor que 16 soma 1
-exibir 
-DADO 1 
-DADO 2 
-ler resposta 
-fim enquanto 
-fim enquanto 
-enquanto i igual 0 e menor que 16 soma 1 
-enquanto j igual 0 e menor que 16 soma 1 
-exibir 
-DADO 1 
-DADO 2 
-fim enquanto 
-fim enquanto   
+     Enquanto i igual a 0 e menor que 16 soma 1
+          Escreva informe elementos da linha
+		Enquanto i igual a 0 e menor que 16 soma 1
+		Exibir
+		Dado 1
+          Dado 2
+     Ler resposta    
 
 Fim
 
