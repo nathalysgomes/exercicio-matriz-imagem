@@ -5,18 +5,22 @@
 
 Início
 
-     escreva Ola! Se voce for idoso digite 1 Se for uma pessoa com deficiencia digite 2 Se for gestante digite 3 Se nao for nenhuma dessas opçoes digite 4:
-          ler resposta
-           se resposta for 1
-           escreva Voce pode estacionar na vaga!
-             se nao se resposta for 2
-             escreva Voce pode estacionar na vaga!
-               se nao se resposta for 3
-               escreva Voce pode estacionar na vaga!
-                se nao se resposta for 4
-                escreva Voce nao pode estacionar na vaga!
-                  se nao
-                  escreva Por favor, digite 1, 2, 3 ou 4!   
+enquanto i igual a 0 ate 16 soma 1 e
+screva Informe elementos da linha 
+enquanto i igual 0 e menor que 16 soma 1 
+exibir 
+DADO 1 
+DADO 2 
+ler resposta 
+fim enquanto 
+fim enquanto 
+enquanto i igual 0 e menor que 16 soma 1 
+enquanto j igual 0 e menor que 16 soma 1 
+exibir 
+DADO 1 
+DADO 2 
+fim enquanto 
+fim enquanto
 
 Fim
 
