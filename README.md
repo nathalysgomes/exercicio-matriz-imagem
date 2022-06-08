@@ -1,28 +1,22 @@
-# algoritmo-matriz-imagem
-## Algoritmo com comandos de matriz e loop para exibicao de imagem
+# algoritmos_de_programacao_250422
+O repositório é um exemplo de como deve ser entregue os exercícios de Algoritmo de Programação.
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
 
 Início
-enquanto i igual a 0 ate 16 soma 1  
-escreva Informe elementos da linha 
-enquanto i igual 0 e menor que 16 soma 1 
-exibir 
-DADO 1 
-DADO 2 
-ler resposta 
-fim enquanto 
-fim enquanto 
-enquanto i igual 0 e menor que 16 soma 1 
-enquanto j igual 0 e menor que 16 soma 1 
-exibir 
-DADO 1 
-DADO 2 
-fim enquanto 
-fim enquanto
+
+     Enquanto Existem disciplinas? Faça
+          Enquanto Existem alunos? Faça
+		Ler as notas de um aluno da disciplina em questão
+		Calcular a nota final
+		Exibir sua nota
+          Fim Enquanto
+     Fim Enquanto    
+
 Fim
 
 
 --------------------------------------------------------
 
 ![fluxograma](https://github.com/nathalysgomes/exercicio-matriz-imagem/blob/main/exercicioimagem.png)
+
