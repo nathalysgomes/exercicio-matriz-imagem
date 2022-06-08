@@ -5,6 +5,14 @@
 
 Início
 
+ Enquanto Existem disciplinas? Faça
+      Enquanto Existem alunos? Faça
+	Ler as notas de um aluno da disciplina em questão
+	Calcular a nota final
+	Exibir sua nota
+      Fim Enquanto
+ Fim Enquanto    
+ 
 enquanto i igual a 0 ate 16 soma 1  
 escreva Informe elementos da linha 
 enquanto i igual 0 e menor que 16 soma 1 
