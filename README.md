@@ -5,8 +5,8 @@
 
 Início
 
-enquanto i igual a 0 ate 16 soma 1 e
-screva Informe elementos da linha 
+enquanto i igual a 0 ate 16 soma 1  
+escreva Informe elementos da linha 
 enquanto i igual 0 e menor que 16 soma 1 
 exibir 
 DADO 1 
@@ -21,7 +21,7 @@ DADO 1
 DADO 2 
 fim enquanto 
 fim enquanto
-
+  
 Fim
 
 
